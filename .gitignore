@@ -1,0 +1,4 @@
+/azcaptcha-go
+*.test
+*.out
+coverage.txt
